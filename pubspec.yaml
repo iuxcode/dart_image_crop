@@ -1,0 +1,7 @@
+name: cropper
+
+environment:
+  sdk: '^3.4.0'
+
+dependencies:
+  image: "4.2.0"
